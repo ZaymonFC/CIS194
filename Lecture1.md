@@ -4,6 +4,7 @@
 - All functions are pure with explicitly managed side effects
 - Functions are first class
     - Functions can be passed around as values
+- Referential Transparency
 
 ## Lazy Evaluation
 - In Haskell, expressions are not evaluated until their results are actually needed.
@@ -24,3 +25,10 @@ all aid in the fight against repetition.
 - Work in a higher level of expressiveness
 - Don't worry about the largely irrelevant details of how basic things like iteration work internally
 - Think about the problem domain and not the implementation cruft
+
+## Types
+- Help clarify program structure and behavior
+- Form of documentation
+- Static typing leads to amazing compile time checking of correctness
+
+
